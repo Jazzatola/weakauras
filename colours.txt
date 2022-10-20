@@ -1,0 +1,9 @@
+purple = 653cad
+dark purple = 240754
+red = ba2525
+dark red = 911111
+yellow = f0b429
+dark yellow = a27c1a
+blue = 40c3f7
+pink = c948f7
+green = 207227
